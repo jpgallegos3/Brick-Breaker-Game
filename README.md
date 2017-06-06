@@ -2,4 +2,4 @@
 Simple Brick Breaker Game
 
 
-![screenshot](/relative/path/to/CSE_165_Final.jpg?raw=true "Optional Title")
+![screenshot](Brick-Breaker-Game/CSE_165_Final.jpg?raw=true "Optional Title")
